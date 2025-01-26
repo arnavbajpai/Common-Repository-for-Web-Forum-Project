@@ -3,7 +3,7 @@
 This repository provides an overview of the Web Forum project, including its architecture, design, and links to the individual repositories for the frontend, backend, and database.
 
 ## Project Repositories
-- [Backend Repository](https://github.com/arnavbajpai/Web-Forum-powered-by-AWS-Backend): Developed using GoLang and deployed on AWS Lambda and API Gateway.
+- [Backend Repository](https://github.com/arnavbajpai/Web-Forum-powered-by-AWS-Backend-REST-API): Developed using GoLang and deployed on AWS Lambda and API Gateway.
 - [Frontend Repository](https://github.com/arnavbajpai/Web-Forum-powered-by-AWS-Frontend): Built with React.js and hosted on AWS S3.
 - [Database Repository](https://github.com/arnavbajpai/Web-Forum-powered-by-AWS-Backend-REST-API): Built on MySQL, hosted on AWS RDS.
 
