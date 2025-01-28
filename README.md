@@ -10,7 +10,7 @@ This repository provides an overview of the Web Forum project, including its arc
 ## Project Architecture
 The Web Forum application is designed as a scalable and modular system, leveraging modern cloud technologies.
 
-![Architecture Diagram](./docs/architecture-diagram (1).png)
+[Architecture Diagram](docs/architecture-diagram (1).png)
 
 ## Features
 - **Backend**: RESTful API implementation using GoLang.
